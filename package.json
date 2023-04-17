@@ -1,0 +1,10 @@
+{
+    "name": "Messuno™",
+    "version": "1.0.0",
+    "description": "Messuno™ M4iKZ™ Bot",
+    "main": "index.js",
+    "dependencies": 
+    {
+        "discord.js": "^13.5.0"
+    }
+}
